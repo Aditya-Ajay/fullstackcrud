@@ -11,3 +11,5 @@ const mongoConn = async () => {
 
 mongoConn();
 export default mongoConn;
+
+//  The connection is established here and the document is created in the database
